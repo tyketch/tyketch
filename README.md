@@ -1,5 +1,13 @@
-### Hi there 👋
+Hi there 👋
+I'm a Data Analyst with a background in finance and operations.
 
+BIO
+* :airplane: I'm currently working at Textron Aviation
+* ⚙️ I use daily: SQL, Power BI
+* 🌱 Learning all about Open Source
+* 💬 Ping me about data strategy, analytics, building relationships, bike commuting
+* 📫 Reach me: linkedin.com/in/tyketchum/
+* :bike: Fun fact: I'm an avid cyclist
 <!--
 **tyketch/tyketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
