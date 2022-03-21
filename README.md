@@ -6,7 +6,7 @@ Hi 👋 I'm Ty! Currently, I'm building a data analytics strategy and community 
 * 🌱 Learning all about Python
 * 💬 Talk to me about data strategy, analytics, finance, remote work leadership, and building relationships
 * 📫 Reach me: [linkedin.com/in/tyketchum/](https://www.linkedin.com/in/tyketchum/)
-* 🚴🏽‍♂️ Fun fact: I'm an avid cyclist, ⚽ nut, and massive bookworm.
+* 🚴🏽‍♂️ Fun fact: I'm an avid cyclist, ⚽ nut, and bookworm.
 <!--
 **tyketch/tyketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
