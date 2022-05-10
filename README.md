@@ -1,10 +1,6 @@
 Hi 👋 I'm Ty! Currently, I'm building a data analytics strategy and community at Textron Aviation ✈️.
 
 * 💡 I'm an [ESTJ](https://www.16personalities.com/estj-personality). While not perfect, understanding personality types helps me better collaborate with YOU!
-* 👪 I embrace [asynchronous workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/) and [non-linear workdays](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/) to maximize spending time outside with my family and exercising.
-* ⚙️ I use daily: SQL, Git, Power BI
-* 🌱 Learning all about Python
-* 💬 Talk to me about data strategy, analytics, finance, remote work leadership, and building relationships
 * 📫 Reach me: [linkedin.com/in/tyketchum/](https://www.linkedin.com/in/tyketchum/)
 * 🚴🏽‍♂️ Fun fact: I'm an avid cyclist, ⚽ nut, and bookworm.
 <!--
