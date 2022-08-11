@@ -1,8 +1,13 @@
-Hi 👋 I'm Ty! Currently, I'm building a data analytics strategy and community at Textron Aviation ✈️.
+Hi 👋 I'm Ty! Currently, I'm building an analytics strategy and community at Textron Aviation ✈️.
+
+I've spent my career in multiple industries and disciplines - from Data to Finance to Ops.
+
+This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
 
 * 💡 I'm an [ESTJ](https://www.16personalities.com/estj-personality). While not perfect, understanding personality types helps me better collaborate with YOU!
 * 📫 Reach me: [linkedin.com/in/tyketchum/](https://www.linkedin.com/in/tyketchum/)
-* 🚴🏽‍♂️ Fun fact: I'm an avid cyclist, ⚽ nut, and bookworm.
+* ⚡ Fun fact: I'm an avid cyclist 🚴, ⚽ fan, and bookworm.
+
 <!--
 **tyketch/tyketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
